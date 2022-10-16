@@ -9,7 +9,7 @@ Click on the website link to view portfolio webpage.
 
 ## Usage
 
-Click on website link url: Https*******
+Click on website link url: https://kateritchie.github.io/kate-ritchie-portfolio/
 
 Once to the webpage, the top contains navation bar as seen below:
 ```md
