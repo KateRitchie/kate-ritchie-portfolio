@@ -1,68 +1,44 @@
 # kate-ritchie-portfolio
 Portfolio
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This webpage will allow to showcase my work to potental employers.  It gives a brief discription of myself, and work-related experience and ways to contact me.  This challenge has provided an opportunity to use CSS flex box and work with responsive websites.  
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Click on the website link to view portfolio webpage.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Click on website link url: Https*******
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Once to the webpage, the top contains navation bar as seen below:
+```md
+![Header](./assets/images/Usage-screen-shot%20top.PNG)
+```
+From there you can click on the navagation link of your choice and it will take you to the corresponding section
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+The My Work section will has links that will take you to other web development projects:
+```md
+![My-Work-Links](./assets/images/My%20Pic.jpg)
+```
+
+At the bottom of the webpage, you can find my contact information:
+```md
+![Contact](./assets/images/Contact%20Info.PNG)
+```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Tutorials: 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Added alt to background images https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
+Hero image https://www.w3schools.com/howto/howto_css_hero_image.asp
 
 Background image: https://www.wildernessshots.com/wp-content/uploads/2017/10/dallas-divide-colorado-black-and-white.jpg
 
+
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+See license in GitHub repository
 
----
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
