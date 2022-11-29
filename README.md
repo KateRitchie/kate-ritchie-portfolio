@@ -12,20 +12,20 @@ Click on the website link to view portfolio webpage.
 Click on website link url: https://kateritchie.github.io/kate-ritchie-portfolio/
 
 Once to the webpage, the top contains navation bar as seen below:
-```md
+
 ![Header](./assets/images/Usage-screen-shot%20top.PNG)
-```
+
 From there you can click on the navagation link of your choice and it will take you to the corresponding section
 
 The My Work section will has links that will take you to other web development projects:
-```md
+
 ![My-Work-Links](./assets/images/My%20Pic.jpg)
-```
+
 
 At the bottom of the webpage, you can find my contact information:
-```md
+
 ![Contact](./assets/images/Contact%20Info.PNG)
-```
+
 
 ## Credits
 
